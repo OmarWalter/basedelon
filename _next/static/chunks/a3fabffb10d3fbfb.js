@@ -764,14 +764,14 @@
                             (0, t.jsx)("code", {
                               className:
                                 "bg-black/5 px-3 py-1 rounded font-mono text-sm",
-                              children: "0x2eb6...de0d",
+                              children: "0xComingSoon...",
                             }),
                           ],
                         }),
                         (0, t.jsx)("button", {
                           onClick: () => {
                             navigator.clipboard.writeText(
-                              "0x2eb6e69864fead8bad80f4f096cff1b419647de0d"
+                              "0xComingSoon"
                             ),
                               a(!0),
                               setTimeout(() => a(!1), 2e3);
@@ -1269,12 +1269,12 @@
       //     //                           className:
       //     //                             "bg-black text-white p-3 rounded font-mono text-sm break-all flex-1 border-2 border-black",
       //     //                           children:
-      //     //                             "0x2eb6e69864fead8bad80f4f096cff1b419647de0d",
+      //     //                             "0xComingSoon",
       //     //                         }),
       //     //                         (0, t.jsx)("button", {
       //     //                           onClick: () => {
       //     //                             navigator.clipboard.writeText(
-      //     //                               "0x2eb6e69864fead8bad80f4f096cff1b419647de0d"
+      //     //                               "0xComingSoon"
       //     //                             ),
       //     //                               a(!0),
       //     //                               setTimeout(() => a(!1), 2e3);
