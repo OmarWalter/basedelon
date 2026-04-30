@@ -605,7 +605,7 @@
                   (0, t.jsx)("div", {
                     className: "hidden sm:flex items-center gap-4",
                     children: (0, t.jsx)("a", {
-                      href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x2EB6e69864FeaD8Bad80F4F096CFF1B419647dE0",
+                      href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className: "manga-btn text-lg py-2",
@@ -1728,7 +1728,7 @@
                           "flex flex-col sm:flex-row gap-6 pt-6 justify-center lg:justify-start",
                         children: [
                           (0, t.jsx)("a", {
-                            href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x2EB6e69864FeaD8Bad80F4F096CFF1B419647dE0",
+                            href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
                             className:
                               "manga-btn bg-black text-white text-2xl py-5 px-10",
                             children: "BUY $BASEDLON",
