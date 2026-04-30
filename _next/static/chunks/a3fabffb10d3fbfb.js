@@ -574,7 +574,7 @@
                       (0, t.jsx)("span", {
                         className:
                           "text-black font-display text-4xl tracking-tighter transform -rotate-2",
-                        children: "Based Elon",
+                        children: "The Based Elon",
                       }),
                     ],
                   }),
@@ -733,7 +733,7 @@
                             (0, t.jsx)("br", {}),
                             (0, t.jsx)("span", {
                               className: "text-outline bg-black px-4 py-1",
-                              children: "Based Elon",
+                              children: "The Based Elon",
                             }),
                           ],
                         }),
@@ -748,7 +748,7 @@
                     //   className:
                     //     "text-2xl text-black font-sans font-medium leading-tight max-w-lg border-l-8 border-black pl-6",
                     //   children:
-                    //     "Can’t believe the sketches captured ‘The Based Elon’ better than any camera could… and somehow just as good as reality itself 😂",
+                    //     "Can’t believe the sketches captured ‘The The Based Elon’ better than any camera could… and somehow just as good as reality itself 😂",
                     // }),
                     (0, t.jsxs)("div", {
                       className:
@@ -838,7 +838,7 @@
                             children: [
                               (0, t.jsx)("span", {
                                 className: "font-display text-2xl text-black",
-                                children: "Based Elon",
+                                children: "The Based Elon",
                               }),
                               (0, t.jsx)("div", {
                                 className: "speech-bubble-inner",
@@ -938,7 +938,7 @@
                               className:
                                 "text-2xl text-black font-sans leading-tight border-l-8 border-black pl-6",
                               children:
-                                "Can’t believe the sketches captured ‘The Based Elon’ better than any camera could… and somehow just as good as reality itself 😂",
+                                "Can’t believe the sketches captured ‘The The Based Elon’ better than any camera could… and somehow just as good as reality itself 😂",
                             }),
                             // (0, t.jsxs)("div", {
                             //   className:
@@ -1033,7 +1033,7 @@
                   //   className:
                   //     "text-2xl text-black font-sans font-medium max-w-2xl mx-auto border-t-4 border-black pt-4 inline-block",
                   //   children:
-                  //     "Hacked and optimized for maximum chaos. Here's how the $ELON kingdom is built.",
+                  //     "Hacked and optimized for maximum chaos. Here's how the $BASEDLON kingdom is built.",
                   // }),
                 ],
               }),
@@ -1731,7 +1731,7 @@
                             href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x2EB6e69864FeaD8Bad80F4F096CFF1B419647dE0",
                             className:
                               "manga-btn bg-black text-white text-2xl py-5 px-10",
-                            children: "BUY $ELON",
+                            children: "BUY $BASEDLON",
                           }),
                           (0, t.jsx)("a", {
                             href: "https://t.me/basedlonPortal",
@@ -1761,7 +1761,7 @@
                         (0, t.jsx)("div", {
                           className:
                             "font-display text-5xl text-black transform -rotate-2",
-                          children: "Based Elon",
+                          children: "The Based Elon",
                         }),
                         // (0, t.jsx)("p", {
                         //   className:
@@ -1860,7 +1860,7 @@
                       children: (0, t.jsx)("p", {
                         className: "font-bold underline decoration-2",
                         children:
-                          "© 2026 Based Elon Token. ALL RIGHTS RESERVED.",
+                          "© 2026 The Based Elon Token. ALL RIGHTS RESERVED.",
                       }),
                     }),
                     // (0, t.jsxs)("div", {
@@ -1875,7 +1875,7 @@
                     //       className:
                     //         "text-xs font-bold leading-tight uppercase tracking-tight",
                     //       children:
-                    //         "$ELON is a meme coin for chaotic entertainment only. It has zero intrinsic value and is purely speculative. Don't ape your life savings into this. Trade with chaos, but trade responsibly.",
+                    //         "$BASEDLON is a meme coin for chaotic entertainment only. It has zero intrinsic value and is purely speculative. Don't ape your life savings into this. Trade with chaos, but trade responsibly.",
                     //     }),
                     //   ],
                     // }),
