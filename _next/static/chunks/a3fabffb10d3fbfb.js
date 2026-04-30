@@ -1728,7 +1728,7 @@
                           "flex flex-col sm:flex-row gap-6 pt-6 justify-center lg:justify-start",
                         children: [
                           (0, t.jsx)("a", {
-                            href: "https://pancakeswap.finance",
+                            href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x2EB6e69864FeaD8Bad80F4F096CFF1B419647dE0",
                             className:
                               "manga-btn bg-black text-white text-2xl py-5 px-10",
                             children: "BUY $ELON",
