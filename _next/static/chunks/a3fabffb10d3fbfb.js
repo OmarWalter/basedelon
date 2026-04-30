@@ -605,11 +605,11 @@
                   (0, t.jsx)("div", {
                     className: "hidden sm:flex items-center gap-4",
                     children: (0, t.jsx)("a", {
-                      href: "https://t.me/basedelonPortal",
+                      href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x2EB6e69864FeaD8Bad80F4F096CFF1B419647dE0",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className: "manga-btn text-lg py-2",
-                      children: "Telegram",
+                      children: "Buy Now",
                     }),
                     
                   }),
