@@ -1148,12 +1148,12 @@
                       }),
                       (0, t.jsx)("h3", {
                         className: "font-display text-3xl mb-4 text-black",
-                        children: "COMMUNITY",
+                        children: "TAX",
                       }),
                       (0, t.jsx)("p", {
                         className:
                           "font-sans text-black font-medium leading-tight",
-                        children: "No devs, only chaos agents.",
+                        children: "0/0",
                       }),
                     ],
                   }),
