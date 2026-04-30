@@ -1860,7 +1860,7 @@
                       children: (0, t.jsx)("p", {
                         className: "font-bold underline decoration-2",
                         children:
-                          "© 2026 KURURU TOKEN. ALL RIGHTS RESERVED. Based Elon",
+                          "© 2026 Based Elon Token. ALL RIGHTS RESERVED.",
                       }),
                     }),
                     // (0, t.jsxs)("div", {
