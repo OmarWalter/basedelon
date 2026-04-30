@@ -670,7 +670,7 @@
                     //   children: "Mission",
                     // }),
                     (0, t.jsx)("a", {
-                      href: "https://t.me/basedelonPortal",
+                      href: "https://t.me/basedlonPortal",
                       className:
                         "manga-btn text-3xl py-4 px-8 w-full text-center",
                       onClick: () => r(!1),
@@ -785,7 +785,7 @@
                       className: "flex flex-col sm:flex-row gap-6 pt-4",
                       children: [
                         (0, t.jsxs)("a", {
-                          href: "https://t.me/basedelonPortal",
+                          href: "https://t.me/basedlonPortal",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           className:
@@ -800,7 +800,7 @@
                           ],
                         }),
                         (0, t.jsx)("a", {
-                          href: "https://x.com/basedelon_coin",
+                          href: "https://x.com/basedloncoin",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           className:
@@ -1356,13 +1356,13 @@
       //     //                   className: "flex flex-col sm:flex-row gap-6",
       //     //                   children: [
       //     //                     (0, t.jsx)("a", {
-      //     //                       href: "https://t.me/basedelonPortal",
+      //     //                       href: "https://t.me/basedlonPortal",
       //     //                       className:
       //     //                         "manga-btn bg-white text-black flex-1 text-center py-4",
       //     //                       children: "Telegram",
       //     //                     }),
       //     //                     (0, t.jsx)("a", {
-      //     //                       href: "https://x.com/basedelon_coin",
+      //     //                       href: "https://x.com/basedloncoin",
       //     //                       className:
       //     //                         "manga-btn bg-white text-black flex-1 text-center py-4",
       //     //                       children: "Twitter",
@@ -1634,13 +1634,13 @@
       //   //                   "flex flex-col sm:flex-row gap-6 justify-center pt-4",
       //   //                 children: [
       //   //                   (0, t.jsx)("a", {
-      //   //                     href: "https://t.me/basedelonPortal",
+      //   //                     href: "https://t.me/basedlonPortal",
       //   //                     className:
       //   //                       "manga-btn bg-white text-black text-2xl py-5 px-12",
       //   //                     children: "ENTER LAB",
       //   //                   }),
       //   //                   (0, t.jsx)("a", {
-      //   //                     href: "https://x.com/basedelon_coin",
+      //   //                     href: "https://x.com/basedloncoin",
       //   //                     className:
       //   //                       "manga-btn bg-white text-black text-2xl py-5 px-12",
       //   //                     children: "Twitter",
@@ -1734,7 +1734,7 @@
                             children: "BUY $ELON",
                           }),
                           (0, t.jsx)("a", {
-                            href: "https://t.me/basedelonPortal",
+                            href: "https://t.me/basedlonPortal",
                             className:
                               "manga-btn bg-white text-black text-2xl py-5 px-10",
                             children: "Telegram",
@@ -1818,7 +1818,7 @@
                           className: "flex gap-4",
                           children: [
                             (0, t.jsx)("a", {
-                              href: "https://x.com/basedelon_coin",
+                              href: "https://x.com/basedloncoin",
                               className:
                                 "manga-btn w-12 h-12 p-0 flex items-center justify-center",
                               "aria-label": "Twitter",
@@ -1832,7 +1832,7 @@
                               }),
                             }),
                             (0, t.jsx)("a", {
-                              href: "https://t.me/basedelonPortal",
+                              href: "https://t.me/basedlonPortal",
                               className:
                                 "manga-btn w-12 h-12 p-0 flex items-center justify-center",
                               "aria-label": "Telegram",
