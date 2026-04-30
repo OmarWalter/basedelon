@@ -748,7 +748,7 @@
                     //   className:
                     //     "text-2xl text-black font-sans font-medium leading-tight max-w-lg border-l-8 border-black pl-6",
                     //   children:
-                    //     "Can’t believe the sketches captured ‘The The Based Elon’ better than any camera could… and somehow just as good as reality itself 😂",
+                    //     "Can’t believe the sketches captured ‘The Based Elon’ better than any camera could… and somehow just as good as reality itself 😂",
                     // }),
                     (0, t.jsxs)("div", {
                       className:
@@ -938,7 +938,7 @@
                               className:
                                 "text-2xl text-black font-sans leading-tight border-l-8 border-black pl-6",
                               children:
-                                "Can’t believe the sketches captured ‘The The Based Elon’ better than any camera could… and somehow just as good as reality itself 😂",
+                                "Can’t believe the sketches captured ‘The Based Elon’ better than any camera could… and somehow just as good as reality itself 😂",
                             }),
                             // (0, t.jsxs)("div", {
                             //   className:
